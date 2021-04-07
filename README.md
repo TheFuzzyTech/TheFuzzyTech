@@ -2,19 +2,31 @@
 
 Currently Learning more about:
 
+
 Kubernetes
+
 Ansible
+
 Zabbix
+
 Grafana
+
 Prometheus
 
 
 Comfortable with:
+
+
 Python
+
 JavaScript (NodeJS, React, Angular)
+
 Docker
+
 Bash
+
 Cisco IOS
+
 Graylog
 
 
